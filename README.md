@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/henrysachs?template=classic&tweets=1&stars=1&projects=1&pagespeed=1&languages=1&isocalendar=1&followup=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=half-year&projects.limit=4&tweets.limit=3&stars.limit=4&config.timezone=Europe%2FBerlin)
+![Metrics](https://metrics.lecoq.io/henrysachs?template=classic&tweets=1&stars=1&pagespeed=1&languages=1&isocalendar=1&followup=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=half-year&projects.limit=4&tweets.limit=3&stars.limit=4&config.timezone=Europe%2FBerlin)
 
 - 🌱 I’m currently learning `aws` with all its great tools such as `aws-cdk` and `projen`
 - 📫 How to reach me: <https://twitter.com/Henry_Astro>
