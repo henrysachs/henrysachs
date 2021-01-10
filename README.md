@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/henrysachs/henrysachs/blob/master/github-metrics.svg)
+![Metrics](https://github.com/henrysachs/henrysachs/blob/main/github-metrics.svg)
 
 - 🌱 I’m currently learning `aws` with all its great tools such as `aws-cdk` and `projen`
 - 📫 How to reach me: <https://twitter.com/Henry_Astro>
