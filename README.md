@@ -2,7 +2,7 @@
 
 ![Metrics](https://github.com/henrysachs/henrysachs/blob/main/github-metrics.svg)
 
-- 🌱 I’m currently learning `aws` with all its great tools such as `aws-cdk` and `projen`
+- 🔐 currently interested in supply chain security and all things slsa related
 - 📫 How to reach me: <https://twitter.com/Henry_Astro>
 
 <!--
