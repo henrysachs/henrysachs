@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/henrysachs/henrysachs/blob/main/github-metrics.svg)
-
 - 🔐 currently interested in supply chain security and all things slsa related
 - 📫 How to reach me: <https://twitter.com/Henry_Astro>
 
